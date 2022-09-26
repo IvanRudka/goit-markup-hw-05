@@ -143,6 +143,8 @@ body {
   height: 4px;
   background-color: var(--accent-color);
   border-radius: 2px;
+
+  transform: translateY(1px);
 }
 
 .contact-us {
